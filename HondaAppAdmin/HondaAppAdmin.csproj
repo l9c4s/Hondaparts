@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-HondaAppAdmin-FAB3908A-287C-49FA-AC35-52FC301D193D</UserSecretsId>
+    <UserSecretsId>aspnet-HondaAppAdmin-C5186679-7095-4DAD-A800-4D6EE8F14B61</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
